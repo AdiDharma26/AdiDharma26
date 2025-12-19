@@ -1,13 +1,46 @@
-<h1 align="center">Hi, I'm Adidoy</h1>
-<h3 align="center">Web Dev & Roblox Scripter </h3>
+<h1 align="center">Hi 👋, I'm Adidoy</h1>
+<h3 align="center">Web Developer & Roblox Scripter</h3>
 
+<p align="center">
+  <i>Building things on the web and scripting game mechanics in Roblox.</i>
+</p>
 
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+  <img 
+    src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" 
+    width="600"
+    alt="Coding animation"
+  />
+</div>
 
+---
+
+### 🚀 About Me
+- 🌱 Currently learning **Web Development & Game Scripting**
+- 🎮 Focused on **Roblox Lua scripting**
+- 💻 Interested in **frontend & interactive systems**
+- 📈 Improving step by step, project by project
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,robloxstudio" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
 
 ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+<p align="center">
+  <i>"Still learning. Still building."</i>
+</p>
